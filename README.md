@@ -31,7 +31,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianisdev&show_icons=true&locale=en&layout=compact" alt="elianisdev" /></p>
 
 
-![image](https://github.com/elianisdev/elianisdev/assets/91162334/5ea926f7-a91b-4292-9a0f-691ad150a43e)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianisdev&show_icons=true&locale=en" alt="elianisdev" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elianisdev&" alt="elianisdev" /></p>
