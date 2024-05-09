@@ -1,9 +1,6 @@
 <h1 align="center">Hi , I'm Eliana Suancha Guzman</h1>
 <h3 align="center">A passionate frontend developer from Colombia, with experience creating web applications that help companies meet their objectives. Speaking a little about backend, I have used databases with MySQL and MongoDB, development and consumption of Rest API, deployment of applications. I am a person with the ability to constantly learn with high work techniques with leadership, innovation, good communication and competence. I like to work as a team with perseverance and dedication, I am responsible in all the activities I carry out; I have the ability to establish good interpersonal relationships. My experience as a developer gives me the ability to identify, understand, and propose alternatives and solutions in all activities and projects, assuming challenges with creativity and attitude.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elianisdev&label=Profile%20views&color=0e75b6&style=flat" alt="elianisdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elianisdev" alt="elianisdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/elisguzm" target="blank"><img src="https://img.shields.io/twitter/follow/elisguzm?logo=twitter&style=for-the-badge" alt="elisguzm" /></a> </p>
 
