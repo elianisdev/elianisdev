@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Eliana Suancha Guzman</h1>
+<h1 align="center">Hi 😊 , I'm Eliana Suancha Guzman</h1>
 <h3 align="center">A passionate frontend developer from Colombia, with experience creating web applications that help companies meet their objectives. Speaking a little about backend, I have used databases with MySQL and MongoDB, development and consumption of Rest API, deployment of applications. I am a person with the ability to constantly learn with high work techniques with leadership, innovation, good communication and competence. I like to work as a team with perseverance and dedication, I am responsible in all the activities I carry out; I have the ability to establish good interpersonal relationships. My experience as a developer gives me the ability to identify, understand, and propose alternatives and solutions in all activities and projects, assuming challenges with creativity and attitude.</h3>
 
 
@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianisdev&show_icons=true&locale=en&layout=compact" alt="elianisdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianisdev&show_icons=true&locale=en" alt="elianisdev" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elianisdev&" alt="elianisdev" /></p>
 
