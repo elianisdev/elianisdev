@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😊 , I'm Eliana Suancha Guzman</h1>
 
 <p align="center">
-  <img src="./assets/github-foundations-badge.png" alt="GitHub Foundations Badge" width="200"/>
+  assets/github-foundations-badge.png 
 </p>
 
 <h3 align="justify">
