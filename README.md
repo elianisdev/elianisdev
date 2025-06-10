@@ -1,4 +1,5 @@
 <h1 align="center">Hi 😊 , I'm Eliana Suancha Guzman</h1>
+![Insignia de GitHub Foundations](./assets/github-foundations.png)
 <h3 align="justify">A passionate frontend developer from Colombia, with experience creating web applications that help companies meet their objectives. Speaking a little about backend, I have used databases with MySQL and MongoDB, development and consumption of Rest API, deployment of applications. I am a person with the ability to constantly learn with high work techniques with leadership, innovation, good communication and competence. I like to work as a team with perseverance and dedication, I am responsible in all the activities I carry out; I have the ability to establish good interpersonal relationships. My experience as a developer gives me the ability to identify, understand, and propose alternatives and solutions in all activities and projects, assuming challenges with creativity and attitude.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elianisdev&label=Profile%20views&color=0e75b6&style=flat" alt="elianisdev" /> </p>
