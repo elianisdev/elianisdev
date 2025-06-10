@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😊 , I'm Eliana Suancha Guzman</h1>
 <p align="center">
   <a href="https://www.credly.com/badges/8377041a-33dc-4f6b-8466-44c0fb01b2fe/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/24b9d1e5-1d57-4127-bf44-1e31e5bfb03e/github-foundations.png" width="120" alt="GitHub Foundations Badge" />
+    <img src="./assets/github-foundations.png" alt="GitHub Foundations Badge" width="250"/>
   </a>
 </p>
 <h3 align="justify">A passionate frontend developer from Colombia, with experience creating web applications that help companies meet their objectives. Speaking a little about backend, I have used databases with MySQL and MongoDB, development and consumption of Rest API, deployment of applications. I am a person with the ability to constantly learn with high work techniques with leadership, innovation, good communication and competence. I like to work as a team with perseverance and dedication, I am responsible in all the activities I carry out; I have the ability to establish good interpersonal relationships. My experience as a developer gives me the ability to identify, understand, and propose alternatives and solutions in all activities and projects, assuming challenges with creativity and attitude.</h3>
