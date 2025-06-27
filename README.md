@@ -40,7 +40,7 @@
     <img src="./assets/github-foundations.png" alt="GitHub Foundations Badge" width="250"/>
   </a> 
 </p>
-<p align="left">
+<p align="Center">
   <a href="https://www.credly.com/badges/817768c8-6e89-4e6f-a5a8-7340bd244063/public_url" target="_blank">
     <img src="./assets/github-actions.png" alt="GitHub Actions Badge" width="250"/>
   </a> 
