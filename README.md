@@ -39,12 +39,11 @@
   <a href="https://www.credly.com/badges/8377041a-33dc-4f6b-8466-44c0fb01b2fe/public_url" target="_blank">
     <img src="./assets/github-foundations.png" alt="GitHub Foundations Badge" width="250"/>
   </a> 
-</p>
-<p align="Center">
   <a href="https://www.credly.com/badges/817768c8-6e89-4e6f-a5a8-7340bd244063/public_url" target="_blank">
     <img src="./assets/github-actions.png" alt="GitHub Actions Badge" width="250"/>
   </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianisdev&show_icons=true&locale=en&layout=compact" alt="elianisdev" /></p>
 
