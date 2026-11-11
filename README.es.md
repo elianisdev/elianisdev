@@ -31,7 +31,8 @@ Desarrolladora Frontend de Colombia con más de 5 años de experiencia construye
 - Implementé la **internacionalización español / inglés** con Lingui
 - Escribí pruebas unitarias y E2E con Jest, React Testing Library, Playwright y Cypress
 
-### 💼 Experiencia
+<details>
+<summary><b>💼 Experiencia · 6 roles, 2020 – 2026 (clic para ver)</b></summary>
 
 | Empresa | Rol | Periodo |
 |---|---|---|
@@ -41,6 +42,8 @@ Desarrolladora Frontend de Colombia con más de 5 años de experiencia construye
 | CasaToro Automotriz | Frontend Developer (React / Vue) | 2022 |
 | Software Corporation | Web Frontend Developer (React) | 2021 – 2022 |
 | Tongo Design | Web Developer (migración de Vue a React) | 2020 |
+
+</details>
 
 ### 🛠️ Tecnologías
 
