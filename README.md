@@ -6,6 +6,8 @@
   <a href="https://www.linkedin.com/in/elianaguz"><img src="https://img.shields.io/badge/LinkedIn-elianaguz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=elianisdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
+
 Frontend Developer from Colombia with 5+ years of experience building web applications with React, Next.js and TypeScript. I turn Figma designs into responsive, accessible interfaces and reusable components, integrate REST APIs and build complex forms with validation. I have worked on products for recruitment, banking and automotive companies, collaborating with backend teams using Node.js and NestJS.
 
 - 🌐 **Portfolio:** [eliana-suancha-dev.vercel.app](https://eliana-suancha-dev.vercel.app), bilingual, built with Next.js 16, CI with GitHub Actions and continuous deployment on Vercel
@@ -19,10 +21,10 @@ Frontend Developer from Colombia with 5+ years of experience building web applic
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,sass,vue,vite,html,css,nodejs,nestjs,mysql,mongodb,aws,docker,git,github,githubactions,figma,postman&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,sass,bootstrap,vue,vuetify,vite,html,css,nodejs,nestjs,mysql,mongodb,aws,docker,git,github,githubactions,figma,postman&perline=12" alt="Tech stack" />
 </p>
 
-**Also:** React Native · SQL Server · TanStack Query · Zustand · React Hook Form · Zod · Jest · Playwright · Bruno
+**Also:** React Native · SQL Server · MariaDB · Materialize · TanStack Query · Zustand · React Hook Form · Zod · Jest · Playwright · Bruno
 
 ### Certifications
 
