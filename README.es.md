@@ -4,9 +4,12 @@
 <h3 align="center">Desarrolladora Frontend Semi Senior · React · Next.js · TypeScript</h3>
 
 <p align="center">
-  <a href="https://eliana-suancha-dev.vercel.app/es"><img src="https://img.shields.io/badge/Portafolio-eliana--suancha--dev.vercel.app-ff6fb5?style=for-the-badge" alt="Portafolio" /></a>
-  <a href="https://www.linkedin.com/in/elianaguz"><img src="https://img.shields.io/badge/LinkedIn-elianaguz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://eliana-suancha-dev.vercel.app/es"><img src="https://img.shields.io/badge/Portafolio-ff6fb5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/elianaguz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:elianitasuanguz@gmail.com"><img src="https://img.shields.io/badge/Correo-3d3d4e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
 </p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=elianisdev&label=Visitas%20al%20perfil&color=ff6fb5&style=flat-square" alt="Visitas al perfil" /></p>
 
 Desarrolladora Frontend de Colombia con más de 5 años de experiencia construyendo aplicaciones web con React, Next.js y TypeScript. Convierto diseños de Figma en interfaces responsive y accesibles con componentes reutilizables, integro APIs REST y construyo formularios complejos con validaciones. He trabajado en productos para empresas de reclutamiento, banca y automotriz, colaborando con equipos de backend en Node.js y NestJS.
 
