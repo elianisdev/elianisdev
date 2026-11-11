@@ -32,3 +32,7 @@ Frontend Developer from Colombia with 5+ years of experience building web applic
   <a href="https://www.credly.com/badges/8377041a-33dc-4f6b-8466-44c0fb01b2fe/public_url"><img src="./assets/github-foundations.png" alt="GitHub Foundations badge" width="160" /></a>
   <a href="https://www.credly.com/badges/817768c8-6e89-4e6f-a5a8-7340bd244063/public_url"><img src="./assets/github-actions.png" alt="GitHub Actions badge" width="160" /></a>
 </p>
+
+### GitHub streak
+
+<p align="left"><img src="https://streak-stats.demolab.com/?user=elianisdev&theme=dark&hide_border=true" alt="GitHub streak stats" /></p>
