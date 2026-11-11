@@ -31,7 +31,8 @@ Frontend Developer from Colombia with 5+ years of experience building web applic
 - Implemented **Spanish / English i18n** with Lingui
 - Wrote unit and E2E tests with Jest, React Testing Library, Playwright and Cypress
 
-### 💼 Experience
+<details>
+<summary><b>💼 Experience · 6 roles, 2020 – 2026 (click to expand)</b></summary>
 
 | Company | Role | Period |
 |---|---|---|
@@ -41,6 +42,8 @@ Frontend Developer from Colombia with 5+ years of experience building web applic
 | CasaToro Automotriz | Frontend Developer (React / Vue) | 2022 |
 | Software Corporation | Web Frontend Developer (React) | 2021 – 2022 |
 | Tongo Design | Web Developer (Vue → React migration) | 2020 |
+
+</details>
 
 ### 🛠️ Tech stack
 
