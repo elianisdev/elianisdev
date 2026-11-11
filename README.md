@@ -1,3 +1,5 @@
+<p align="right">🇺🇸 English · <a href="https://github.com/elianisdev/elianisdev/blob/master/README.es.md">🇪🇸 Leer en español</a></p>
+
 <h1 align="center">Hi 👋, I'm Eliana Suancha Guzmán</h1>
 <h3 align="center">Semi Senior Frontend Developer · React · Next.js · TypeScript</h3>
 
@@ -14,25 +16,48 @@ Frontend Developer from Colombia with 5+ years of experience building web applic
 - 💼 **Recently:** frontend for a recruitment platform (ATS) and its marketing site at **Datta**
 - 🚧 **Building in public:** [DevFlow AI](https://github.com/elianisdev/devflow-ai), a task board where each task is linked to its pull request and AI agents review the code
 - 📜 **Certified** in GitHub Foundations and GitHub Actions
+- 🎓 **Software Engineering** student at Universidad Manuela Beltrán
 - 🤖 I use AI agents (Claude Code) as development support, always reviewing and testing my work
 - 🌎 Open to **remote** frontend roles and freelance projects
 - 📫 **Contact:** elianitasuanguz@gmail.com
 
-### Tech stack
+### ✨ Highlights
+
+- Built **5 complete modules** of an ATS (hiring, email templates, automated actions and a freelance recruiters panel) with React 19, TypeScript strict, TanStack Query, React Hook Form, Zod and Zustand
+- Created a reusable header component for the design system (shadcn/ui + Tailwind CSS 4), later **adopted by 19 existing components**
+- Integrated **Gmail through Google OAuth** and a scheduling page with **cal.com**
+- Built **document management and digital signature** for banking clients with AWS S3 and Adobe PDF Services
+- Implemented **Spanish / English i18n** with Lingui
+- Wrote unit and E2E tests with Jest, React Testing Library, Playwright and Cypress
+
+### 💼 Experience
+
+| Company | Role | Period |
+|---|---|---|
+| Datta | Frontend Developer (React / Next.js) | 2026 |
+| Tech communities (No Country, iGrowker, FooTalent) | Frontend Developer (React) | 2025 – 2026 |
+| TechyWe | Software Developer (React / Next.js / React Native) | 2022 – 2025 |
+| CasaToro Automotriz | Frontend Developer (React / Vue) | 2022 |
+| Software Corporation | Web Frontend Developer (React) | 2021 – 2022 |
+| Tongo Design | Web Developer (Vue → React migration) | 2020 |
+
+### 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,sass,bootstrap,vue,vuetify,vite,html,css,nodejs,nestjs,mysql,mongodb,aws,docker,git,github,githubactions,figma,postman&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,sass,bootstrap,vue,vuetify,vite,html,css,nodejs,nestjs,express,mysql,mongodb,aws,docker,git,github,githubactions,figma,postman&perline=13" alt="Tech stack" />
 </p>
 
-**Also:** React Native · SQL Server · MariaDB · Materialize · TanStack Query · Zustand · React Hook Form · Zod · Jest · Playwright · Bruno
+**Also:** React Native · shadcn/ui · SQL Server · MariaDB · Materialize · TanStack Query · Zustand · React Hook Form · Zod · Jest · React Testing Library · Playwright · Cypress · WebSockets · Bitbucket · Bruno
 
-### Certifications
+**Practices:** Clean Architecture · Atomic Design · Accessibility (WCAG) · Core Web Vitals · Scrum · GitHub Flow
+
+### 📜 Certifications
 
 <p align="left">
   <a href="https://www.credly.com/badges/8377041a-33dc-4f6b-8466-44c0fb01b2fe/public_url"><img src="./assets/github-foundations.png" alt="GitHub Foundations badge" width="160" /></a>
   <a href="https://www.credly.com/badges/817768c8-6e89-4e6f-a5a8-7340bd244063/public_url"><img src="./assets/github-actions.png" alt="GitHub Actions badge" width="160" /></a>
 </p>
 
-### GitHub streak
+### 🔥 GitHub streak
 
 <p align="left"><img src="https://streak-stats.demolab.com/?user=elianisdev&theme=dark&hide_border=true" alt="GitHub streak stats" /></p>
