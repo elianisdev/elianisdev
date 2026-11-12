@@ -13,7 +13,7 @@
 
 Desarrolladora Frontend de Colombia con más de 5 años de experiencia construyendo aplicaciones web con React, Next.js y TypeScript. Convierto diseños de Figma en interfaces responsive y accesibles con componentes reutilizables, integro APIs REST y construyo formularios complejos con validaciones. He trabajado en productos para empresas de reclutamiento, banca y automotriz, colaborando con equipos de backend en Node.js y NestJS.
 
-- 🌐 **Portafolio:** [eliana-suancha-dev.vercel.app](https://eliana-suancha-dev.vercel.app/es), bilingüe, hecho con Next.js 16, CI con GitHub Actions y despliegue continuo en Vercel
+- 🌐 **Portafolio:** [eliana-suancha-dev.vercel.app](https://eliana-suancha-dev.vercel.app/es), hecho con Next.js 16 e i18n español/inglés, CI con GitHub Actions y despliegue continuo en Vercel
 - 💼 **Recientemente:** frontend de una plataforma de reclutamiento (ATS) y su sitio comercial en **Datta**
 - 🚧 **Construyendo en público:** [DevFlow AI](https://github.com/elianisdev/devflow-ai), un tablero donde cada tarea se conecta con su pull request y agentes de IA revisan el código
 - 📜 **Certificada** en GitHub Foundations y GitHub Actions
